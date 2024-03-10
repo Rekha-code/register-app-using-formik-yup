@@ -1,0 +1,21 @@
+{
+  "name": "register-form",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "formik": "^2.4.5",
+    "preact": "^10.19.5",
+    "yup": "^1.4.0"
+  },
+  "devDependencies": {
+    "@preact/preset-vite": "^2.8.1",
+    "vite": "^5.1.4"
+  }
+}
